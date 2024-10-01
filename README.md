@@ -1,3 +1,5 @@
+<img src="https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png"/>
+
 # Kotlin Clean Architecture Modular Template
 
 This project is a base template for Android applications developed in Kotlin 2.0, using Jetpack Compose as the modern UI framework. It follows a Modularized Clean Architecture approach, dividing the application into feature-based modules to improve scalability and maintainability. Each module encapsulates specific responsibilities within the project.
