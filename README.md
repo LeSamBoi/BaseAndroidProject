@@ -1,4 +1,4 @@
-<img src="https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png"/>
+<img src="https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png" height="350"/>
 
 # Kotlin Clean Architecture Modular Template
 
